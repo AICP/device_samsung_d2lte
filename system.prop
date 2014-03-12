@@ -3,3 +3,9 @@
 
 rild.libargs=-d /dev/smd0
 persist.radio.mode_pref_nv10=1
+
+# For hardware info in settings
+ro.device.front_cam=1.9 MP
+ro.device.rear_cam=8 MP
+ro.device.gpu=Adreno 225
+ro.device.screen_res=720x1280
