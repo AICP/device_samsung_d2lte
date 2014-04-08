@@ -34,7 +34,6 @@
 #include "log.h"
 #include "util.h"
 
-
 void vendor_load_properties()
 {
     char platform[PROP_VALUE_MAX];
@@ -176,4 +175,3 @@ void vendor_load_properties()
     ERROR("Found bootloader id %s setting build properties for %s device\n", bootloader, device);
 
 }
-
