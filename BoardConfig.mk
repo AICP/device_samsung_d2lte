@@ -107,3 +107,6 @@ endif
 
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/d2lte/releasetools
+
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
