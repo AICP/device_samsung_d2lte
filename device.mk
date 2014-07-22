@@ -50,6 +50,10 @@ PRODUCT_COPY_FILES += \
         device/samsung/d2lte/audio/snd_soc_msm_2x:system/etc/snd_soc_msm/snd_soc_msm_2x \
         device/samsung/d2lte/audio/audio_policy.conf:system/etc/audio_policy.conf
 
+# Audio
+PRODUCT_PACKAGES += \
+        audio.r_submix.default
+
 # Wifi
 PRODUCT_COPY_FILES += \
         device/samsung/d2lte/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
