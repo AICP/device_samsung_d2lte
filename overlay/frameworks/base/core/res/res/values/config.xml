@@ -300,6 +300,7 @@
     <!-- Disable lockscreen rotation by default -->
     <bool name="config_enableLockScreenRotation">true</bool>
 
+    <!--Enable Wifi Display-->
     <bool name="config_enableWifiDisplay">true</bool>
 
     <!-- Flag indicating if the speed up audio on mt call code should be executed -->
