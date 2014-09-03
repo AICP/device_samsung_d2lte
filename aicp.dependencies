@@ -19,15 +19,10 @@
     "repository": "CyanogenMod/android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
     "branch":      "cm-11.0"
-      },
-  {
-    "repository": "AICP/proprietary_vendor_samsung_d2lte",
-    "target_path": "vendor/samsung/d2lte",
-    "branch":      "kitkat"
   },
   {
-    "repository": "AICP/proprietary_vendor_samsung_msm8960-common",
-    "target_path": "vendor/samsung/msm8960-common",
+    "repository": "AICP/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
     "branch":      "kitkat"
   },
   {
